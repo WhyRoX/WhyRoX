@@ -30,7 +30,7 @@
 </div>
 
 
-### 💻 School Stuff
+### 💻 School Stuff ...
 
 <br />
 
