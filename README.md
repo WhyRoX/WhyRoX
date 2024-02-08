@@ -1,9 +1,9 @@
 <h1 aligne="center"> Hello there 👋 </h1>
 
 **About me**
-
-- ❤️ I like chicken btw
 <img align="right" height="200" src="https://media.giphy.com/media/eLv7gJpxqiQtbNNQUe/giphy.gif"/>
+- ❤️ I like chicken btw
+
 
 
 <div>
