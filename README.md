@@ -3,6 +3,7 @@
 **About me**
 
 - ❤️ I like chicken btw
+<img align="right" height="200" src="https://media.giphy.com/media/eLv7gJpxqiQtbNNQUe/giphy.gif"/>
 
 
 <div>
@@ -29,10 +30,6 @@
   <img width="10"/>
 </div>
 
-
-<img align="right" height="200" src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif?cid=790b7611a8d1e3uln4f35oa6n2tbcq93vd5ilxm0x3fyghq2&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-
-<img align="right" height="200" src="https://media.giphy.com/media/eLv7gJpxqiQtbNNQUe/giphy.gif"/>
 
 
 
