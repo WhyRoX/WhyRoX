@@ -29,7 +29,7 @@
   <img width="10"/>
 </div>
 
-<img align="right" height="150" border-radius="50%" src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif?cid=790b7611a8d1e3uln4f35oa6n2tbcq93vd5ilxm0x3fyghq2&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img class="gif" align="right" height="150" border-radius="50%" src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif?cid=790b7611a8d1e3uln4f35oa6n2tbcq93vd5ilxm0x3fyghq2&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 ### 💻 School Stuff ... 
 
@@ -38,3 +38,10 @@
 <a href="https://github.com/WhyRoX/VINCI">
   <img align="center" src="https://github-readme-stats-enes-yumers-projects.vercel.app/api/pin/?username=WhyRoX&repo=VINCI&theme=aura" />
 </a>
+
+
+<style>
+  .gif {
+    border-radius: 50%;
+  }  
+</style>
