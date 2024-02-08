@@ -6,8 +6,8 @@
 
 
 <div>
-  <img src="https://github-readme-enesyumer.vercel.app/api?username=WhyRoX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stat graph"  />
-  <img src="https://github-readme-enesyumer.vercel.app/api/top-langs?username=WhyRoX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="lang graph"  />
+  <img src="https://github-readme-stats-enes-yumers-projects.vercel.app/api?username=WhyRoX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stat graph"  />
+  <img src="https://github-readme-stats-enes-yumers-projects.vercel.app/api/top-langs?username=WhyRoX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="lang graph"  />
 </div>
 
 <br />
@@ -35,5 +35,5 @@
 <br />
 
 <a href="https://github.com/WhyRoX/VINCI">
-  <img align="center" src="https://github-readme-enesyumer.vercel.app/api/pin/?username=WhyRoX&repo=VINCI&theme=aura" />
+  <img align="center" src="https://github-readme-stats-enes-yumers-projects.vercel.app/api/pin/?username=WhyRoX&repo=VINCI&theme=aura" />
 </a>
