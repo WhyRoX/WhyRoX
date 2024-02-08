@@ -30,10 +30,8 @@
 </div>
 
 
+<img align="right" height="150" style="border-radius: 50%;" src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif?cid=790b7611a8d1e3uln4f35oa6n2tbcq93vd5ilxm0x3fyghq2&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
-<div style="border-radius: 50%; overflow: hidden; width: 200px; height: 200px;">
-  <img align="right" height="150" style="border-radius: 50%" src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif?cid=790b7611a8d1e3uln4f35oa6n2tbcq93vd5ilxm0x3fyghq2&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-</div>
 
 ### 💻 School Stuff ... 
 
