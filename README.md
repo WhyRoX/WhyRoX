@@ -36,5 +36,5 @@
 <br />
 
 <a href="https://github.com/WhyRoX/VINCI">
-  <img align="center" src="https://github-readme-enesyumer.vercel.app/api/pin/?username=WhyRoX&repo=github-readme-stats&theme=aura" />
+  <img align="center" src="https://github-readme-enesyumer.vercel.app/api/pin/?username=WhyRoX&repo=School Stuff&theme=aura" />
 </a>
