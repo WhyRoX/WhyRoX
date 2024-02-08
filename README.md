@@ -43,6 +43,7 @@
   <img align="center" src="https://github-readme-stats-enes-yumers-projects.vercel.app/api/pin/?username=WhyRoX&repo=VINCI&theme=aura" />
 </a>
 <img align="right" height="80" src="https://media.giphy.com/media/hVm2JYyoGy7MGqX4H8/giphy.gif?cid=790b7611hrvn39nzx2dvdc4g6p5j2e3tpmxw6g057yplz73y&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
+<br/>
 <img align="right" height="200" src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=790b7611hrvn39nzx2dvdc4g6p5j2e3tpmxw6g057yplz73y&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
 
 
