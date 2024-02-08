@@ -16,7 +16,7 @@
 💻 **Languages and Tools:** 🛠️<br>
 
 <div align="left">
-  <img height="40" alt="git" src="file:///C:/Users/mysti/AppData/Local/Temp/f75c5504-99b0-41a2-b212-614f1de21603_visual-studio-code-icons.zip.603/visual-studio-code-icons/vscode.svg"/>
+  <img height="40" alt="vscode" src="https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC"/>
   
   <img width="10"/>
   <img height="40" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png?size=48"/>
