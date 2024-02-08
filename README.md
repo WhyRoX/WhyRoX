@@ -43,5 +43,10 @@
   <img align="center" src="https://github-readme-stats-enes-yumers-projects.vercel.app/api/pin/?username=WhyRoX&repo=VINCI&theme=aura" />
 </a>
 
+<img align="right" height="200" src="https://media.giphy.com/media/GmbF0GPBUXUXzQCfGC/giphy.gif?cid=ecf05e47gm6y0xjy3q8owvaoe9q3sav4z7h0q6xpswnmp62a&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img align="right" height="200" src="https://media.giphy.com/media/hVm2JYyoGy7MGqX4H8/giphy.gif?cid=790b7611hrvn39nzx2dvdc4g6p5j2e3tpmxw6g057yplz73y&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
+<img align="right" height="200" src="https://media.giphy.com/media/hVm2JYyoGy7MGqX4H8/giphy.gif?cid=790b7611hrvn39nzx2dvdc4g6p5j2e3tpmxw6g057yplz73y&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
+<img align="right" height="200" src=""/>
+
 
 
