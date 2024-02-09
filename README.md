@@ -34,9 +34,9 @@
 
 
 
-
-<img align="right" height="200" src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=790b7611hrvn39nzx2dvdc4g6p5j2e3tpmxw6g057yplz73y&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
-
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I2ZXRicDg2bHNhc3YwamY3aHdsMHY5aGU4ZmVzbGt5bGFlbXBvOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YkHMAt23ZdcbZMgIgs/giphy.gif"/>
+<!---<img align="right" height="200" src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=790b7611hrvn39nzx2dvdc4g6p5j2e3tpmxw6g057yplz73y&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
+--->
 ### 💻 School Stuff ... 
 
 <br />
