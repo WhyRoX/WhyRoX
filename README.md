@@ -48,7 +48,7 @@
 <br />
 
 <a href="https://github.com/enes-yumer-vinci/VINCI">
-  <img align="center" src="https://github-readme-stats-enes-yumers-projects.vercel.app/api/pin/?username=WhyRoX&repo=VINCI&theme=aura" />
+  <img align="center" src="https://github-readme-stats-enes-yumers-projects.vercel.app/api/pin/?username=enes-yumer-vinci&repo=VINCI&theme=aura" />
 </a>
 
 
