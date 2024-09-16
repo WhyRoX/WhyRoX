@@ -47,8 +47,8 @@
 
 <br />
 
-<a href="https://github.com/WhyRoX/VINCI">
-  <img align="center" src="https://github-readme-stats-enes-yumers-projects.vercel.app/api/pin/?username=WhyRoX&repo=VINCI&theme=aura" />
+<a href="https://github.com/WhyRoX/VINCI-YEAR1">
+  <img align="center" src="https://github-readme-stats-enes-yumers-projects.vercel.app/api/pin/?username=WhyRoX&repo=VINCI-YEAR1&theme=aura" />
 </a>
 
 
