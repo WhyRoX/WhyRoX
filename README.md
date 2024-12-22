@@ -1,5 +1,5 @@
 <img align="right" height="200" src="https://media.giphy.com/media/eLv7gJpxqiQtbNNQUe/giphy.gif"/>
-<h1 align="center"> Hello there 👋 </h1>
+<h1> Hello there 👋 </h1>
 
 **About me**
 
