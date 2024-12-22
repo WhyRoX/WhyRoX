@@ -3,7 +3,7 @@
 
 **About me**
 
-- ❤️ I like chicken btw
+- ❤️ I like chicken bt hehe
 
 
 
