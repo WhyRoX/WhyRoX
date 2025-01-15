@@ -3,7 +3,7 @@
 
 **About me**
 
-- ❤️ I like chicken btw hehe
+- ❤️ Coding is cool
 
 
 
