@@ -51,6 +51,11 @@
   <img align="center" src="https://github-readme-stats-enes-yumers-projects.vercel.app/api/pin/?username=WhyRoX&repo=VINCI-YEAR1&theme=aura" />
 </a>
 
+<br />
+<div style="padding-top: 200px">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WhyRoX&api_domain=wakapi.taillet.net&icon_color=2F855A&text_color=ffffff&custom_title=Top%2010%20Sweat&layout=compact&theme=aura&langs_count=10" />
+</div>
+
 
 
 
