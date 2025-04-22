@@ -6,14 +6,11 @@
 - ❤️ Coding is cool
 
 
-
 <div>
   <img src="https://github-readme-stats-enes-yumers-projects.vercel.app/api?username=WhyRoX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true" height="150" alt="stat graph"  />
   <img src="https://github-readme-stats-enes-yumers-projects.vercel.app/api/top-langs?username=WhyRoX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="lang graph"  />
 </div>
-
 <br />
-
 
 <div align="left">
   <img height="40" alt="java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"/>
@@ -34,16 +31,14 @@
   <img width="10"/>
   
 
-
+## 💻 School Stuff ... 
   
 </div>
-
 
 
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2I2ZXRicDg2bHNhc3YwamY3aHdsMHY5aGU4ZmVzbGt5bGFlbXBvOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YkHMAt23ZdcbZMgIgs/giphy.gif"/>
 <!---<img align="right" height="200" src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=790b7611hrvn39nzx2dvdc4g6p5j2e3tpmxw6g057yplz73y&ep=v1_stickers_search&rid=giphy.gif&ct=s"/>
 --->
-### 💻 School Stuff ... 
 
 <br />
 
